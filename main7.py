@@ -5,7 +5,7 @@ Saving file content
 """
 
 
-target_file = open(r"c:\Users\veri\Desktop\targetedfile.txt")
+target_file = open(r"c:\Users\username\Desktop\targetedfile.txt")
 
 target_file_content = target_file.read()
 target_file.close()
